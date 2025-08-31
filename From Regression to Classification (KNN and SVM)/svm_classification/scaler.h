@@ -1,0 +1,10 @@
+#define NUM_FEATURES 2
+
+double mean[NUM_FEATURES] = {
+   36.2400000000, 70220.0000000000
+};
+
+double scale[NUM_FEATURES] = {
+   11.3974734042, 32704.9170615062
+};
+
